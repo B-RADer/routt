@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+
+# Node.js (if you add tools later)
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Sensitive files
+.env
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.bak
+*.log

@@ -4,7 +4,7 @@ compatibility_date = "2025-05-31"
 
 [site]
 bucket = "./"
-include = ["*.html", "*.css", "*.js", "images/*", "sitemap.xml", "robots.txt", "css/*"]
+include = ["*.html", "*.css", "*.js", "images/*", "sitemap.xml", "robots.txt"]
 
 [[kv_namespaces]]
 binding = "ASSETS"

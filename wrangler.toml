@@ -1,0 +1,11 @@
+name = "routt-distillery"
+main = "worker.js"
+compatibility_date = "2025-05-31"
+
+[site]
+bucket = "./"
+include = ["*.html", "*.css", "*.js", "images/*", "sitemap.xml", "robots.txt", "css/*"]
+
+[[kv_namespaces]]
+binding = "ASSETS"
+id = "<kv-namespace-id>"

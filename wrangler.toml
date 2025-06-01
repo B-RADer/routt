@@ -8,4 +8,4 @@ include = ["*.html", "*.css", "*.js", "images/*", "sitemap.xml", "robots.txt", "
 
 [[kv_namespaces]]
 binding = "ASSETS"
-id = "<kv-namespace-id>"
+id = "9ad9ea48d09e44bc83164974b9e391da"

@@ -1,4 +1,4 @@
-name = "routt-distillery"
+name = "routt"
 main = "worker.js"
 compatibility_date = "2025-05-31"
 
